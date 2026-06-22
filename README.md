@@ -8,7 +8,7 @@ Este repositório contém um cronograma de estudos totalmente editável em forma
 
 ## Arquivo principal
 
-- `schedule-ENEM.html`: página HTML com layout responsivo e área de conteúdo editável para inserir horários, tarefas e temas de estudo.
+Página HTML com layout responsivo e área de conteúdo editável para inserir horários, tarefas e temas de estudo.
 
 ## Recursos
 
@@ -20,7 +20,7 @@ Este repositório contém um cronograma de estudos totalmente editável em forma
 
 ## Como usar
 
-1. Abra o arquivo `schedule-ENEM.html` no navegador.
+1. Abra o arquivo `index.html` no navegador.
 2. Edite os campos com seu horário, matérias e objetivos.
 3. Use o botão `Imprimir Cronograma` para salvar em PDF ou imprimir.
 
