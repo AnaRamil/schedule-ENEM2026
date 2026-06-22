@@ -8,7 +8,7 @@ Este repositório contém um cronograma de estudos totalmente editável em forma
 
 ## Arquivo principal
 
-- `Schedule-ENEM.html`: página HTML com layout responsivo e área de conteúdo editável para inserir horários, tarefas e temas de estudo.
+- `schedule-ENEM.html`: página HTML com layout responsivo e área de conteúdo editável para inserir horários, tarefas e temas de estudo.
 
 ## Recursos
 
